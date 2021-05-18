@@ -1,0 +1,44 @@
+
+####### PRODUCT1 ######
+
+
+####### BASIC INFO ######
+Product Name : Mi 10i (Atlantic Blue, 128 GB)  (8 GB RAM)
+Average Rating : 4.4
+No of Ratings : 592
+No of Reviews : 46
+MRP : 24,399/-
+Store Price : 24,900/-
+Discount : 2%
+
+####### GENERAL SPECS ######
+In The Box : Mi 10i 5G/ Power adapter / USB Type-C cable/ Simple protective cover / SIM eject tool / User guide / Warranty card
+Model Number : M2007J17I
+Model Name : 10i
+Color : Atlantic Blue
+Browse Type : Smartphones
+SIM Type : Dual Sim
+Hybrid Sim Slot : Yes
+Touchscreen : Yes
+
+####### PRODUCT2 ######
+
+
+####### BASIC INFO ######
+Product Name : Infinix Smart 5 (Morandi Green, 32 GB)  (2 GB RAM)
+Average Rating : 4.4
+No of Ratings : 18,164
+No of Reviews : 1,410
+MRP : 7,199/-
+Store Price : 8,999/-
+Discount : 20%
+
+####### GENERAL SPECS ######
+In The Box : Handset, Adaptor, USB Cable, TPU Case, Protective Screen Guard, SIM Ejector Pin, Quick Start Guide, Warranty Card
+Model Number : X688C
+Model Name : Smart 5
+Color : Morandi Green
+Browse Type : Smartphones
+SIM Type : Dual Sim
+Hybrid Sim Slot : No
+Touchscreen : Yes
